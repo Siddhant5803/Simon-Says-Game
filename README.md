@@ -25,3 +25,5 @@ A fun and interactive memory-based game inspired by the classic "Simon Says", wh
 3. Repeat the sequence by clicking the buttons in the correct order.  
 4. The sequence gets longer with each round.  
 5. A wrong move ends the game — try again and beat your high score!
+
+Live Link : https://saysimon.vercel.app/
